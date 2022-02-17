@@ -1,1 +1,1 @@
-Repository of interesting FP papers i stumble upon and would like to try read them out at some later point.
+Repository of interesting FP papers i stumble upon, and the one that i would like to read at some point.
